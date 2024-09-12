@@ -1,2 +1,2 @@
-- ussensor_sketch.ino -> Code for the ultrasonic sensor application
+was just playing around with an arduino kit
   
